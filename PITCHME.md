@@ -27,9 +27,7 @@ Note:
 
 ---
 
-#### Знакомство
-
-PERCo-KT02
+#### Знакомство c PERCo-KT02
 
 ![Турникет](https://image.ibb.co/iaKCVd/Selection_039.png)
 
