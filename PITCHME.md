@@ -1,3 +1,3 @@
-# Внедрение Bluetooth Low Energy в систему PERCo
+## Внедрение Bluetooth Low Energy в систему PERCo
 
-### Аубакиров Санжар
+#### Аубакиров Санжар
