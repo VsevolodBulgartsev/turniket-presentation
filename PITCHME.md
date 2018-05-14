@@ -40,4 +40,4 @@ Note:
 
 PERCo-KT02
 
-![Общая схема](https://image.ibb.co/cyNzAd/Selection_040.png)
+![Общая схема](https://image.ibb.co/dRd9bJ/Selection_040.png)
