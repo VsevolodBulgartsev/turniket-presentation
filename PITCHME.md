@@ -103,6 +103,7 @@ Note:
 #### Эксперимент. Управление приводом
 
 ![Video](https://www.youtube.com/embed/DlDGJn8U75E)
+![Video](https://www.youtube.com/embed/fcC2bQZKaLc)
 
 ---
 
